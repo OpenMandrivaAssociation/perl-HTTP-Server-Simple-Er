@@ -8,7 +8,7 @@ Release:    %mkrel 1
 Summary:    Lightweight server and interface
 License:    GPL+ or Artistic
 Group:      Development/Perl
-Url:        http://search.cpan.org/dist/%{upstream_name}
+Url:        https://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/HTTP/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires: perl(Class::Accessor::Classy)
